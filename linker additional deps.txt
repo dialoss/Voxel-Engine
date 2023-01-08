@@ -1,0 +1,5 @@
+glew32s.lib
+opengl32.lib
+glfw3.lib
+freetype.lib
+libnoise.lib
