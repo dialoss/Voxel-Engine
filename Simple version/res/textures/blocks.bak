@@ -1,0 +1,78 @@
+air
+opacity 1
+drawGroup 0
+1
+-
+error
+opacity 0
+drawGroup 0
+1
+-
+dirt
+opacity 0
+drawGroup 0
+1
+-
+grass
+opacity 0
+drawGroup 0
+1
+2
+3
+-
+stone
+opacity 0
+drawGroup 0
+1
+-
+glowstone
+opacity 0
+drawGroup 0
+rgb 5 5 14
+1
+-
+leaves
+opacity 1
+drawGroup 1
+1
+-
+oak
+opacity 0
+drawGroup 0
+1
+2
+3
+-
+glass
+opacity 1
+drawGroup 2
+1
+-
+bedrock
+opacity 0
+drawGroup 0
+1
+-
+cobble
+opacity 0
+drawGroup 0
+1
+-
+birch
+opacity 0
+drawGroup 0
+1
+2
+3
+-
+sand
+opacity 0
+drawGroup 0
+1
+-
+water
+opacity 1
+drawGroup 2
+solid 0
+1
+-
