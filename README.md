@@ -17,4 +17,4 @@ https://user-images.githubusercontent.com/82834460/211168528-8878577e-8d8c-4eef-
 
 # Build
 
-The project is easy to build in VS Studio 2019 on x64 debug build.
+The project is easy to build in Visual Studio 2019 on x64 debug build.
